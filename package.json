@@ -24,5 +24,9 @@
     "eslint-plugin-react-refresh": "^0.4.9",
     "globals": "^15.9.0",
     "vite": "^5.4.1"
-  }
+  },
+  "description": "Pokedex React.js application to search and list all pokemon on PokeAPI [https://pokeapi.co/].",
+  "main": "eslint.config.js",
+  "author": "",
+  "license": "ISC"
 }
